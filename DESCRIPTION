@@ -1,0 +1,19 @@
+Package: lingdata
+Type: Package
+Title: Conjuntos de Dados Linguisticos 
+Version: 1.0.0
+Authors@R: as.person(c(
+    "Pablo Arantes <pabloarantes@ufscar.br> [aut, cre]", 
+    "Plinio Barbosa <pabarbosa.unicampbr@gmail.com> [aut]",
+    "Ronaldo Mangueira Lima Júnior <ronaldo.limajr@gmail.com> [aut]"
+  ))
+Author: Pablo Arantes (UFSCar), Plinio A. Barbosa (Unicamp) e Ronaldo M. Lima Jr (UnB)
+Maintainer: Pablo Arantes <pabloarantes@ufscar.br>
+Description: Coleção de dados de natureza linguística destinada ao ensino
+    de estatística para estudantes e pesquisadores das áreas de Letras
+    e Linguística.
+Depends: R (>= 2.10)
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1

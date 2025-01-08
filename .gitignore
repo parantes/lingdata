@@ -1,3 +1,6 @@
+# Ignore data-raw folder (due to large txt files)
+data-raw/
+
 # History files
 .Rhistory
 .Rapp.history
